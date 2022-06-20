@@ -18,7 +18,7 @@ bikeshare_2.py
 ```
 
 #### **Credits**
-Data provided by https://www.motivateco.com/
+Data provided by [Motivate](https:/www.motivateco.com/)
 
 #### **Author**
 Ade Agbemuko
