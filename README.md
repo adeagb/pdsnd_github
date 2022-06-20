@@ -11,7 +11,9 @@ Ade's Git Project for Udacity
 Project details bike sharing data across 3 cities in the US. It is an interactive project, so that based on user selection (i.e. city, day etc) the output is determined  
 
 ### Files used
-Include the files used
+chicago.csv
+washington.csv
+new_york.csv
+bikeshare_2.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
