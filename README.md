@@ -17,3 +17,4 @@ new_york.csv
 bikeshare_2.py
 
 ### Credits
+Data provided by https://www.motivateco.com/
