@@ -8,7 +8,7 @@ created 20 June 2022
 Ade's Git Project for Udacity
 
 ### Description
-Describe what your project is about and what it does
+Project details bike sharing data across 3 cities in the US. It is an interactive project, so that based on user selection (i.e. city, day etc) the output is determined  
 
 ### Files used
 Include the files used
