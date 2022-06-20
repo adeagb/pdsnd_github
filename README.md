@@ -2,7 +2,7 @@
 
 ### Date created
 Include the date you created this project and README file.
-created 20 June 2022
+created Monday, 20 June 2022
 
 ### Project Title
 Ade's Git Project for Udacity
