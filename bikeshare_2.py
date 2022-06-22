@@ -121,6 +121,16 @@ def user_stats(df):
 
 
 def main():
+     """
+    Once all data is displayed, asks user if they would like to repeat process
+
+    Args:
+        (str) yes or no - user input to restart game
+
+    Returns:
+        (str) Goodbye Message; for no
+        (str) def get_filters() request
+    """
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
